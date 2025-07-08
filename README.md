@@ -1,3 +1,4 @@
+# SafeSnap
 # 🚨 SOS App – Emergency Video & Location Alert System
 
 The **SOS App** is a safety-focused mobile application designed to assist users during emergency situations. With a single tap of the **SOS button**, the app captures a short video, gathers the user's real-time location, and instantly notifies pre-configured emergency contacts via email or in-app messages.
